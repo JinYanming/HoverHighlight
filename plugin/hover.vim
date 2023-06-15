@@ -22,7 +22,7 @@ func! AutoHoverHighlightToggle()
 endf
 
 if !exists('g:AutoHoverHighlightToggle')
-  let g:AutoHoverHighlightToggle = '<M-h>'
+  let g:AutoHoverHighlightToggle = '<M-l>'
 end
 
 au BufEnter * :call AutoHoverHighlightInit()

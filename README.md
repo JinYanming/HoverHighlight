@@ -14,5 +14,5 @@ Plug 'JinYanming/HoverHiglight'
 
 Close/Open
 ```
-Alt + h
+Alt + l
 ```
